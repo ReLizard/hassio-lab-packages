@@ -13,5 +13,5 @@ Non si vuole regolare accensioni e spegnimenti fissi, ma creare una gestione del
 Se il dispositivo non è in posizione di ricarica (non connesso alla fonte di alimentazione, o non presente fisicamente in carica), il sistema non deve ovviamente avviarsi inutilmente.
 
 **_ESEMPIO:_**
-Smartphone collegato dalla presa smart (ovviamente spenta), quando si va a dormire...indipendentemente dalla percentuale di ricarica, e al risveglio la mattina seguente troveremo il dispositivo sempre ad una percentuale di ricarica superiore al valore stabilito a monte.
-Sarà il sistema a stabilire se accendere la presa e quindi iniziare la ricarica, e quando interrompere per ottenere il risultato richiesto.
+Smartphone collegato dalla presa smart (ovviamente spenta), quando si va a dormire...indipendentemente dalla percentuale della batteria, e al risveglio la mattina seguente troveremo il dispositivo sempre ad una percentuale di batteria residua superiore al valore stabilito a monte.
+Sarà il sistema a decidere se accendere la presa e quindi iniziare la ricarica, e quando interrompere per ottenere il risultato richiesto.
